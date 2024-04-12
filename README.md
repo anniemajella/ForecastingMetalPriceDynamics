@@ -7,4 +7,9 @@ This project focuses on the stochastic modelling and forecasting of metal price 
 
 
 RESULTS:
+
+
+
+
 <img width="401" alt="output1" src="https://github.com/anniemajella/ForecastingMetalPriceDynamics/assets/129158386/d7ac0619-c31f-4dc0-becb-f0d2a4526b59">
+![image](https://github.com/anniemajella/ForecastingMetalPriceDynamics/assets/129158386/33e2d408-4e08-4e13-a8de-e329c6c47a05)
